@@ -1,0 +1,21 @@
+{
+	Name:"Welle 1",
+	Waves:[
+		{
+			Duration:15,
+			Mobs:[
+				{Type:"EnemyBox",CoolDown:1.5},
+				{Type:"EnemyLittleBox",CoolDown:1.5},
+			],
+		},
+		{
+			Duration:15,
+			Mobs:[
+				{Type:"EnemyBox",CoolDown:1.5},
+				{Type:"EnemyLittleBox",CoolDown:1.5},
+				{Type:"EnemyBox",CoolDown:1.5},
+				{Type:"EnemyBox",CoolDown:1.5},
+			],
+		},
+	],
+}
